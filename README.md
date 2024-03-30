@@ -1,9 +1,11 @@
 # ヒト✕ツキ ユーザーズガイド
 
-このページは、工数管理・原価計算ツール「ヒト✕ツキ」の公式マニュアルです。
+このページは、工数管理・原価計算ツール「ヒト✕ツキ」の公式マニュアルです。  
 
 - [ヒト✕ツキ 公式サイト](https://hitotsuki.net)
 - [ヒト✕ツキ 利用者ログイン](https://user.hitotsuki.net/signin)
+
+不具合報告や機能追加要望は、[ISSUE](https://github.com/ad5-inc/hitotsuki-guide/issues) を上げていただくか、info@ad5.jp までお願いします。  
 
 # 目次
 
