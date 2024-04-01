@@ -24,4 +24,6 @@
 
 - [案件マスタ](src/pages/301-project.md)
 - [案件タイプの仕様](src/pages/302-project-type.md)
-
+  
+> [!NOTE]
+> その他の機能のガイドは現在準備中です。
