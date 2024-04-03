@@ -9,6 +9,10 @@
 
 # 目次
 
+## リリースノート
+
+- [リリースノート](src/pages/001-release-note.md)
+
 ## スタートガイド
 
 - [最初に設定すること](src/pages/101-setup.md)
